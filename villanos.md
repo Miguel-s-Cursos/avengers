@@ -2,3 +2,4 @@
 
 * Duende verde
 * SandMan
+* Octopus
