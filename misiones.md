@@ -1,3 +1,4 @@
 # Misiones
 
-* Investigar los planes de Octopus
+* Investigar los planes de Octopus.
+* Capturar a Otto.
