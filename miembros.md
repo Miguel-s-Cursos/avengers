@@ -18,3 +18,4 @@
 * Wasp
 * Antman
 * Spiderman
+* Miles Morales
